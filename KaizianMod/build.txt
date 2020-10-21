@@ -1,0 +1,3 @@
+displayName = Kaizian Mod
+author = Croww
+version = 0.1
